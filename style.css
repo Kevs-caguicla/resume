@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.heading {
+    background-color: pink;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border: 50px black;
+    }
+.contact {
+    padding: 50px;
+    width: 30px;
+    border: 5px solid black;
+    float: left;
+    
+}
+.work {
+    padding: 50px;
+    width: 70px;
+    border: 5px solid black;
+    float: left;
+
+}
